@@ -25,19 +25,9 @@ The AURORA Scholarship Portal solves the problem of scattered and hard-to-find s
 It serves students by providing a centralized, easy-to-use, and responsive platform where they can view, apply, and manage scholarship applications.
 Our project adds value by reducing barriers and increasing accessibility to education funding.
 
-🧠 Team & Approach
+My Approach:
 
-Team Name:
-code crackers
-
-Team Members:
-
-Asmita Banerjee
-Ankana Sadhukhan
-Isha Chakraborty
-Our Approach:
-
-We chose this problem because educational opportunities should be available to every student, no matter where they come from.
+I chose this problem because educational opportunities should be available to every student, no matter where they come from.
 Key Challenges Addressed: Building an organized, visually appealing platform using only client-side technologies.
 Breakthroughs: Successfully implemented LocalStorage for data persistence and used Google Charts for dynamic application analytics.
 🛠️ Tech Stack
@@ -100,7 +90,7 @@ Database storage
 Email notifications
 
 🏁 Final Words
-We loved building AURORA Scholarship Portal!
+I loved building AURORA Scholarship Portal!
 It taught us the power of clean frontend development and how meaningful simple technology can be for solving real-world problems. 🚀
 Huge thanks to the organizers, mentors, and our amazing team for this journey!
 
