@@ -73,7 +73,7 @@ Web Browser (Chrome, Firefox, Safari, etc.)
 
 Local Setup:
 # Clone the repository
-https://github.com/codehubasa/Aurora-Scholarship-repo.git
+https://github.com/codehubasa/Aurora-Scholarship-Portal.git
 
 # Open index.html in your browser
 ✅ No installation needed.
