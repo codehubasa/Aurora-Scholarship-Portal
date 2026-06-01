@@ -15,7 +15,7 @@
 
 🌟 AURORA Scholarship Portal Empowering students by making scholarships easily accessible, simple to apply for, and trackable online.
 
-📌 Problem Statement
+📌 Problem Stateme
 
 Problem Statement 12 – Redesign Crisis Logistics and Relief Distribution
 
